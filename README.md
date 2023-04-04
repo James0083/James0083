@@ -24,4 +24,7 @@
 **굵게**
 *기울임체*
 ~~취소선~~
+
+<img src="/image/cons.png"/>
+<img src="/image/ScreenShotChoiKevin.png"/>
 -->
