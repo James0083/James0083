@@ -1,4 +1,6 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=About%20Me&fontSize=90)
+-->
 
 # Languages
 ![*'s github stats](https://github-readme-stats.vercel.app/api?username=James0083)
