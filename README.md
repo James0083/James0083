@@ -9,12 +9,20 @@
 
 
 
-![C](https://img.shields.io/badge/-C-5386c8?style=flat&logo=C&logoColor=rgb(8,68,138)) 
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-fed73d?style=flat&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-838138?style=flat&logo=JavaScript&logoColor=Yellow)
-![HTML](https://img.shields.io/badge/-HTML-e24b20?style=flat&logo=HTML)
+<!--참고 : https://shields.io/badges/static-badge -->
+![C](https://img.shields.io/badge/-C-5386c8?style=flat&logo=C&logoColor=rgb(8,68,138))
+[![JAVA](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)](https://www.java.com/ko/)
+[![Python](https://img.shields.io/badge/-Python-fed73d?style=flat&logo=Python&labelColor=fed73d)](https://www.python.org/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-eeeeee?style=flat&logo=JavaScript&labelColor=cccccc&logoColor=#F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-eeeeee?style=flat&logo=typescript&logoColor=#3178C6)
+![HTML](https://img.shields.io/badge/HTML5-eeeeee?style=flat&logo=html5&logoColor=#E34F26&labelColor=111111)    
+  
+![Spring](https://img.shields.io/badge/Spring-ffffff?style=flat&logo=spring&logoColor=#6DB33F&labelColor=ffffff)    
 
+
+
+### Learning Roadmap
+[![Roadmap](https://img.shields.io/badge/-roadmap-ffffff?style=flat&logo=roadmapdotsh&logoColor=000000)](https://roadmap.sh/)
 
 <!--
 # Hi there 👋
