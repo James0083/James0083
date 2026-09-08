@@ -3,7 +3,7 @@
 -->
 
 # Languages
-![*'s github stats](https://github-readme-stats.vercel.app/api?username=James0083)
+![James0083's github stats](https://github-readme-stats.vercel.app/api?username=James0083)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James0083)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James0083&layout=compact) -->
 
