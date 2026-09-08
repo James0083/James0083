@@ -3,9 +3,8 @@
 -->
 
 # Languages
-![*'s github stats](https://github-readme-stats.vercel.app/api?username=James0083)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James0083)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James0083&layout=compact) -->
+![James0083's github stats](https://ghstats.dev/api/card?username=James0083)
+![Top Langs](https://ghstats.dev/api/langs?username=James0083&layout=compact)
 
 
 
@@ -13,11 +12,11 @@
 ![C](https://img.shields.io/badge/-C-5386c8?style=flat&logo=C&logoColor=rgb(8,68,138))
 [![JAVA](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=ffffff)](https://www.java.com/ko/)
 [![Python](https://img.shields.io/badge/-Python-fed73d?style=flat&logo=Python&labelColor=fed73d)](https://www.python.org/)
-![JavaScript](https://img.shields.io/badge/-JavaScript-eeeeee?style=flat&logo=JavaScript&labelColor=cccccc&logoColor=#F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-eeeeee?style=flat&logo=typescript&logoColor=#3178C6)
-![HTML](https://img.shields.io/badge/HTML5-eeeeee?style=flat&logo=html5&logoColor=#E34F26&labelColor=111111)    
+![JavaScript](https://img.shields.io/badge/-JavaScript-eeeeee?style=flat&logo=JavaScript&labelColor=cccccc&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-eeeeee?style=flat&logo=typescript&logoColor=%233178C6)
+![HTML](https://img.shields.io/badge/HTML5-eeeeee?style=flat&logo=html5&logoColor=%23E34F26&labelColor=111111)    
   
-![Spring](https://img.shields.io/badge/Spring-ffffff?style=flat&logo=spring&logoColor=#6DB33F&labelColor=ffffff)    
+![Spring](https://img.shields.io/badge/Spring-ffffff?style=flat&logo=spring&logoColor=%236DB33F&labelColor=ffffff)    
 
 
 
